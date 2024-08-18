@@ -7,8 +7,8 @@ This Python notebook is a simple housing price prediction model using linear reg
 ## Data Loading and Preprocessing
 
 The script starts by importing essential libraries, loading the 'USA_Housing.csv' dataset using pandas, and performing data preprocessing:
-- Drops the 'Address' column, which is not required for analysis.
-- Rounds the numeric columns to integers.
+
+- Drops the 'Address' column, which is not required for analysis.- Rounds the numeric columns to integers.
 - Renames some columns for readability.
 
 ## Data Visualization
@@ -42,8 +42,8 @@ The script allows users to input values for 'Area Income,' 'House Age,' 'No. of 
 - Displays the predicted price in both thousands of dollars and crores of rupees.
 - Asks if the user wants to continue predicting house prices.
 
-## References:
-- Chen, N. (2022). House Price Prediction Model of Zhaoqing City Based on Correlation Analysis and Multiple Linear Regression Analysis. Wireless Communications and Mobile Computing, 2022, pp.1–18. doi:https://doi.org/10.1155/2022/9590704.
+## References
+- Chen, N. (2022). House Price Prediction Model of Zhaoqing City Based on Correlation Analysis and Multiple Linear Regression Analysis. Wireless Communications and Mobile Computing, 2022, pp.1–18. doi:<https://doi.org/10.1155/2022/9590704>.
 - SASIKANTH (2018). USA Housing. [online] Kaggle.com. Available at: https://www.kaggle.com/datasets/kanths028/usa-housing [Accessed 18 Aug. 2024].
 - scikit-learn developers (2019). sklearn.linear_model.LinearRegression — scikit-learn 0.22 documentation. [online] Scikit-learn.org. Available at: <https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html>.
 ‌
