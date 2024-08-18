@@ -1,6 +1,6 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/53d63a02e5ba41df9f48cf08ceb6d135)](https://app.codacy.com/gh/Abhinav330/Linear-Regression-Project-on-House-Pricing/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Linear-Regression-Project-on-House-Pricing/seaborn)
-https://img.shields.io/github/pipenv/locked/python-version/Abhinav330/Linear-Regression-Project-on-House-Pricing
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Abhinav330/Linear-Regression-Project-on-House-Pricing)
 
 
 
