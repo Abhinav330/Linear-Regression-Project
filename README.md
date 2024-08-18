@@ -1,4 +1,4 @@
-# Linear-Regression-Project
+# Linear-Regression-Project-on-House-Pricing
 
 # Code Summary
 
