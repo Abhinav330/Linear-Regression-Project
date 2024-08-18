@@ -1,5 +1,7 @@
 # Linear-Regression-Project-on-House-Pricing
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f613c1430cb74363adc5542b8f2f418f)](https://app.codacy.com/gh/Abhinav330/Linear-Regression-Project-on-House-Pricing?utm_source=github.com&utm_medium=referral&utm_content=Abhinav330/Linear-Regression-Project-on-House-Pricing&utm_campaign=Badge_Grade)
+
 # Code Summary
 
 This Python notebook is a simple housing price prediction model using linear regression. It imports necessary libraries, loads the 'USA_Housing.csv' dataset, preprocesses the data, visualizes it, builds a linear regression model, and allows for predicting house prices based on user input.
