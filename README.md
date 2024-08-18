@@ -45,7 +45,6 @@ The script allows users to input values for 'Area Income,' 'House Age,' 'No. of 
 ## References:
 - Chen, N. (2022). House Price Prediction Model of Zhaoqing City Based on Correlation Analysis and Multiple Linear Regression Analysis. Wireless Communications and Mobile Computing, 2022, pp.1–18. doi:https://doi.org/10.1155/2022/9590704.
 - SASIKANTH (2018). USA Housing. [online] Kaggle.com. Available at: https://www.kaggle.com/datasets/kanths028/usa-housing [Accessed 18 Aug. 2024].
-- scikit-learn developers (2019). sklearn.linear_model.LinearRegression — scikit-learn 0.22 documentation. [online] Scikit-learn.org. Available at: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html.
-
+- scikit-learn developers (2019). sklearn.linear_model.LinearRegression — scikit-learn 0.22 documentation. [online] Scikit-learn.org. Available at: <https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html>.
 ‌
 
