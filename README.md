@@ -3,6 +3,7 @@
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Linear-Regression-Project-on-House-Pricing/numpy)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Linear-Regression-Project-on-House-Pricing/pandas)
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Linear-Regression-Project-on-House-Pricing/seaborn)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Linear-Regression-Project-on-House-Pricing/kaggle)
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Abhinav330/Linear-Regression-Project-on-House-Pricing)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Abhinav330/Linear-Regression-Project-on-House-Pricing)
 
